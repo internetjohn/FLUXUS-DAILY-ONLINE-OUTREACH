@@ -12,21 +12,21 @@
 	
 	<p style="text-align:center">click your favorite pixels<p>
 	
-	<img src="Oyster.jpg"
+	<img src="Oyster.jpg" alt="centered image" />
 	
-	<img src="shard.jpg"
+	<img src="shard.jpg" alt="centered image" />
 	
-	<img src="star.jpg"
+	<img src="star.jpg" alt="centered image" />
 	
-	<img src="spring.jpg"
+	<img src="spring.jpg" alt="centered image" />
 	
-	<img src="juul.jpg"
+	<img src="juul.jpg" alt="centered image" />
 	
-	<img src="cube.jpg"
+	<img src="cube.jpg" alt="centered image" />
 	
-	<img src="caution.jpg"
+	<img src="caution.jpg" alt="centered image" />
 	
-	<img src="a418.jpg"
+	<img src="a418.jpg" alt="centered image" />
 	
 </body>
 
