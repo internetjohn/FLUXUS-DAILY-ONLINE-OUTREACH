@@ -12,6 +12,10 @@
 	
 	<p style="text-align:center">click your favorite pixels<p>
 	
+	<a href="default.asp">
+	<img src="oyster.jpg" alt="OYSTER" style="width:1000px;height:1000px;">
+	</a>
+	
 	<img src="Oyster.jpg" alt="centered image" />
 	
 	<img src="shard.jpg" alt="centered image" />
